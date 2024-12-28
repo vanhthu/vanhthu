@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anh Thu</h1>
 <h3 align="center">Java Developer</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanhthu&show_icons=true&theme=cobalt)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
